@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    height: 120px;
+    width: 100%;
+    background-image: url(../Images/pattern.jpeg);
+}
+h2 {
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+h3 {
+    text-align: left;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+}
+span {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#paint {
+    background-color: skyblue;
+}
+#frames {
+    background-color: lightcoral;
+}
+#brushes {
+    background-color: mediumspringgreen;
+}
